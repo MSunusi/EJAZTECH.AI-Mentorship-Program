@@ -51,13 +51,14 @@ Each project in this repository is accompanied by a **Jupyter Notebook** with co
 
 ## 📦 Requirements
 Before running the notebooks, make sure you have the following Python libraries installed:
+
  ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 
 
+```
 
- 
- ## 🎯 Learning Goals
+## 🎯 Learning Goals
 By completing the projects in this repository, you will:
 
 - Understand the fundamentals of regression and classification  
